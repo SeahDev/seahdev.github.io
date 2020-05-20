@@ -1,0 +1,14 @@
+{
+  "class":"FeaturedBannersView",
+  "itemSize":"{263, 148}",
+  "itemCornerRadius":10,
+  "banners":
+   [
+     {
+       "url":"https://SeahDev.github.io/repo/Banners/limelightred.png",
+       "title":"LimelightRed",
+       "package":"com.SeahDev.limelightred",
+       "hideShadow":false
+      }
+    ]
+}

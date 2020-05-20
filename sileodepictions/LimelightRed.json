@@ -1,0 +1,108 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/seahdev/repo/master/Images/LimelightRed.png",
+	"tintColor": "#bf0000",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Limelight recolored to red. I used the files from Ty's GitHub and recolored with some tools he made. Thanks to him for letting me host these!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## NOTE: This used to be hosted on mac-user669's repo, but now I'm in charge of them."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Support\nNeed help? Just email me!"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/seahdev/repo/master/Images/LimelightRed.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/seahdev/repo/master/Images/LimelightRed.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/seahdev/repo/master/Images/LimelightRed.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/seahdev/repo/master/Images/LimelightRed.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "2.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "SeahDev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/seahdev",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Move to my repo, and add a bunch of icons!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

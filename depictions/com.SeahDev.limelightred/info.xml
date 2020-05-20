@@ -1,0 +1,39 @@
+<package>
+	<id>com.SeahDev.limelightred</id>
+	<name>LimelightRed</name>
+	<version>0.4</version>
+
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+
+	<dependencies>
+		<package>Snowboard or Anemone</package>
+	</dependencies>
+
+	<shortDescription>Limelight recolored to red</shortDescription>
+
+	<descriptionlist>
+		<description>Limelight recolored to red. I used the files from Ty's GitHub and recolored with some tools he made. Thanks to him for letting me host these!</description>
+	</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<image>LimelightRed.png</image>
+		</screenshot>		
+	</screenshots>
+
+	<changelog>
+		<change>Add about 10 icons</change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+</package>
